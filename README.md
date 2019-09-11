@@ -6,4 +6,4 @@ Earthquake information from U.S. Geological Survey by month. Data visualization 
 Leaflet library, Mapbox, Javascript, HTML, CSS 
 
 ## Prerequisites
-Be sure to add your MapBox API Key to config.js file
+Ensure you add your MapBox API Key to config.js file
